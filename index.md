@@ -14,7 +14,7 @@ I am a Ph.D. student at Ocean University of China
 ## News
 
 - **[Apr. 2026]** Our paper about Visual Odometry is accepted to Ocean Engineering.
-% - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+
 
 {% include_relative _includes/publications.md %}
 
