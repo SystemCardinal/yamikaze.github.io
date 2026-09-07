@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Ocean University of China
+I am currently a PhD student in Computer Science at Ocean University of China. I received my B.Sc. from Ocean University of China and my M.Sc. in Computer Science through the joint programme of the University of Amsterdam and Vrije Universiteit Amsterdam. I also hold a second degree in Robotics from Heriot-Watt University.
+
 
 ## Research Interests
 - **Data mining:** Retrieval-Augmented Generation (RAG), Information Retrieval, Knowledge-Augmented Large Language Models
