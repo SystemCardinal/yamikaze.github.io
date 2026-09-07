@@ -7,9 +7,8 @@ layout: homepage
 I am a Ph.D. student at Ocean University of China
 
 ## Research Interests
-
-- **Data mining:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Data mining:** Retrieval-Augmented Generation (RAG), Information Retrieval, Knowledge-Augmented Large Language Models
+- **Machine Learning:** Fine-tuning basesd DL
 
 ## News
 - **[Nov. 2024]** My paper about Human-Agent Interaction is accepted to HAI'24.
